@@ -99,6 +99,7 @@ function proceedToNextQuestion() {
 }
 
 
+
 function endQuiz() {
     document.getElementById("quiz").innerHTML = "All done! Your final score is " + score + " out of " + quizQuestions.length + ".";
   console.log('The quiz time has ended. Game over');
