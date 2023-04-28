@@ -1,6 +1,6 @@
 # code-quiz
 [Screenshot of My Application](./assets/screen.png)
-Link to my deployed application: 
+Link to my deployed application: https://joanbrambila.github.io/code-quiz/
 
 ## Description
 
